@@ -1,0 +1,9 @@
+{
+	"name": "cdf12067",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "562446f9-253f-4c29-a146-4fe0adef83a4",
+		"tenantId": "9329c02a-4050-4798-93ae-b6e37b19af6d"
+	}
+}
